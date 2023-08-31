@@ -10,6 +10,8 @@
 
 <code> php artisan migrate --seed </code>
 
+Jangan lupa untuk setting email, untuk kirim OTPnya.
+
 ```sh
 Login: root@domain.com
 Password: 123123
